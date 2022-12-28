@@ -220,3 +220,13 @@ body {
 strong {
     font-weight: 500;
 }
+
+#bbb {
+    float: right;
+    width: 300px;
+    height: auto;
+}
+
+#napps {
+    float: left;
+}
