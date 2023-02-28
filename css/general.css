@@ -88,9 +88,10 @@ body {
 }
 
 .heading-tertiary {
-    font-size: 10rem;
+    font-size: 36px;
     line-height: 1.2;
     margin-bottom: 3.2rem;
+    text-align: center;
 }
 
 .subheading {
